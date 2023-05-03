@@ -8,3 +8,15 @@ In this data set, which includes the website information of a company, there is 
 * Click: Number of clicks on the displayed ad
 * Purchase: The number of products purchased after the ads clicked
 * Earning: Earnings after purchased products
+
+#-------------------------------------------------------------------------------------------------
+
+TR:
+Facebook kısa süre önce "maximumbidding" adlı mevcut teklif verme türüne alternatif olarak "average bidding" adlı yeni bir teklif verme türü sundu. Müşterilerimizden biri olan bombbambomba.com bu yeni özelliği test etmeye karar verdi ve averagebidding'in maximumbidding'den daha fazla dönüşüm sağlayıp sağlamadığını görmek için bir A/B testi yapmak istedi. A/B testi 1 aydır devam ediyor ve bombabomba.com şimdi bu A/B testinin sonuçlarını analiz etmenizi bekliyor. Bombabomba.com için nihai başarı kriteri Satın Alımdır. Bu nedenle, istatistiksel testler için Satın Alımmetriğine odaklanılmalıdır.
+
+Bir şirketin web sitesi bilgilerinin yer aldığı bu veri setinde kullanıcıların gördüğü ve tıkladığı reklam sayısı gibi bilgilerin yanı sıra buradan elde edilen kazanç bilgileri de yer alıyor. Kontrol ve Test grubu olmak üzere iki ayrı veri seti bulunmaktadır. Bu veri setleri ab_testing.xlsxexcel'in ayrı sayfalarında yer almaktadır. Kontrol grubuna Maximum Bidding, test grubuna ise AverageBidding uygulanmıştır.
+
+gösterim: Reklam görüntüleme sayısı
+Tıklama: Görüntülenen reklama yapılan tıklama sayısı
+Satın alma: Reklamlara tıklandıktan sonra satın alınan ürün sayısı
+Kazanç: Satın alınan ürünlerden sonraki kazançlar
